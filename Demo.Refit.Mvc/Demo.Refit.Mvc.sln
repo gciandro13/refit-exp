@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Refit.Mvc", "Demo.Refit.Mvc\Demo.Refit.Mvc.csproj", "{2781AA4E-DD56-4B8E-AB4B-F15C70D3C2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2781AA4E-DD56-4B8E-AB4B-F15C70D3C2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2781AA4E-DD56-4B8E-AB4B-F15C70D3C2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2781AA4E-DD56-4B8E-AB4B-F15C70D3C2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2781AA4E-DD56-4B8E-AB4B-F15C70D3C2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8952F644-383F-491D-BB6B-5219C71B73CA}
+	EndGlobalSection
+EndGlobal

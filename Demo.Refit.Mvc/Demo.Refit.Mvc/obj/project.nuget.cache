@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "AecM1mnDH/nnO8V0n8dxzPcGYbNbNtBoEGk/bWIHizxti9eIRS1nNQdcy2GfDpoJQJC/R8l1TlLPNFS+xcNX/Q==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\BE\\Demo\\Refit\\Demo.Refit.Mvc\\Demo.Refit.Mvc\\Demo.Refit.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\refit.httpclientfactory\\6.0.38\\refit.httpclientfactory.6.0.38.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\refit.newtonsoft.json\\6.0.38\\refit.newtonsoft.json.6.0.38.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni Ciandrini\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

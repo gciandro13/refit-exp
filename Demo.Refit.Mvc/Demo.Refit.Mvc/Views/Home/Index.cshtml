@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <input type="text" id="inputmsg" name="inputmsg" value="" />
+    <input type="button" name="submit" id="submit" value="Markdown_Github" onclick="useRefit()" />
+</div>
+<div class="text-center mt-3">
+    <textarea id="res"></textarea>
+</div>
+
+<div class="text-center mt-5">
+    <input type="text" id="inputmsg1" name="inputmsg1" value="" />
+    <input type="button" name="submitSpot" id="submitSpot" value="Get_NameAge" onclick="useRefitNameAge()" />
+</div>
+<div class="text-center mt-3">
+    <textarea id="res2"></textarea>
+</div>
+
+<script>
+    function useRefit() {
+        debugger;
+        var inputmsg = $("#inputmsg").val();
+        debugger;
+        $.post("/Home/Refit", { msg: inputmsg }, function (data) {
+            $("#res").html(data);
+        });
+    }
+
+    function useRefitNameAge() {
+        debugger;
+        var inputmsg1 = $("#inputmsg1").val();
+        debugger;
+        $.get("/Home/RefitNameAge", { name: inputmsg1 }, function (data) {
+            $("#res2").html(data);
+        });
+    }
+</script>
